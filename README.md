@@ -52,7 +52,7 @@ The highest survival probability was found among **Females in 1st Class**, with 
 ---
 
 ## 🚀 How to Run this Project
-1. Open the Google Colab Link-    https://colab.research.google.com/drive/1-u8dODHqhfBIfCMf-O9jKGtM6JlZmfLY#scrollTo=0XFMfjOiwBOS
+1. Open the Google Colab Link-    https://colab.research.google.com/drive/1-u8dODHqhfBIfCMf-O9jKGtM6JlZmfLY?usp=sharing
 2. Ensure you have an active internet connection to fetch the dataset from the remote URL.
 3. Run all cells to see the results and the generated DataFrames.
 
