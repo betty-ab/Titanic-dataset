@@ -12,6 +12,7 @@ df = pd.DataFrame(data, index=custom_index)
 print(df)
 
 #part2
+
 url = 'https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv'
 df = pd.read_csv(url)
 display(df.head())
